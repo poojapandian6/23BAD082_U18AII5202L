@@ -1,0 +1,8 @@
+Assignment Number: 4
+Experiment Title: Visual Encoding of Data
+Course Code: U18AII5202L
+Roll Number: 23BAD082
+Language Used: R
+Libraries Used: ggplot2
+Dataset: 4.traffic_accidents.csv
+Objective: To apply effective visual encoding principles for meaningful data communication.

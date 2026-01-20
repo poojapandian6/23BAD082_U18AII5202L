@@ -1,0 +1,8 @@
+Assignment Number: 3
+Experiment Title: Designing Multivariate Patterns
+Course Code: U18AII5202L
+Roll Number: 23BAD082
+Language Used: R
+Libraries Used: GGally, ggplot2
+Dataset: 3.healthcare_data.csv
+Objective: To discover relationships among multiple health variables using multivariate visualization.

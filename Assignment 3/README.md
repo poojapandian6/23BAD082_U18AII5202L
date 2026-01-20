@@ -15,7 +15,8 @@ Assignment_3/
 ├── data/
 │   └── 3.healthcare_data.csv  
 ├── figures/
-│   └── scatter_matrix.png  
+│   └── output.png
+|   └── output2.png
 ├── README.md  
 
 ---

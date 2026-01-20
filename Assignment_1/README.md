@@ -65,4 +65,4 @@ All output plots are stored in the **figures** folder.
 3. Run the script:
 
 ```r
-source("code/eda_visualization.R")
+source("code/assignment1.R")

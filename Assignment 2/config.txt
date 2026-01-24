@@ -1,0 +1,15 @@
+
+---
+
+# ⚙️ **config.txt**
+
+```txt
+Project: Assignment 2 – Implementation of Data Visualization Techniques  
+Student Roll No: 23BAD082  
+
+Dataset Path: data/2.ecommerce_transactions.csv  
+R Script Path: code/assignment2.R  
+Figures Output Folder: figures/  
+
+Software Used: RStudio  
+Libraries: ggplot2  
